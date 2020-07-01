@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo Just a regular string
+echo I\'m a string
+echo 'A single quoted "string"'
+echo "A double quoted 'string'"
+echo -e "This string has a \nnew line"

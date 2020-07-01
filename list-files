@@ -1,0 +1,8 @@
+#!/bin/bash
+
+files=/home/buteo/GitHub/bash-basics/*
+
+for file in $files
+do
+	echo $(basename $file)
+done

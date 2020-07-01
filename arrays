@@ -1,0 +1,5 @@
+#!/bin/bash
+
+beatles=('John' 'Paul' 'George' 'Ringo')
+
+echo ${beatles[3]}
